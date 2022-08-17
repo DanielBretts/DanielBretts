@@ -22,9 +22,8 @@
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
   
-|![](https://img.shields.io/badge/OOP-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Automation?style=for-the-badge)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+![](https://img.shields.io/badge/OOP-brightgreen?style=for-the-badge)  ![](https://img.shields.io/badge/Web%20Automation?style=for-the-badge)
+
   
   
 <Br>
@@ -33,7 +32,7 @@
 <h1>Tools I use! 🛠️</h1>
 <Br>
  
-|![](https://img.shields.io/badge/JavaScript-FF6F00?style=for-the-badge&logoColor=yellow)|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/Java-FF6F00?style=for-the-badge&logo=Java&logoColor=orange)|
+![](https://img.shields.io/badge/JavaScript-FF6F00?style=for-the-badge&logoColor=yellow)  ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)  ![](https://img.shields.io/badge/Java-FF6F00?style=for-the-badge&logo=Java&logoColor=orange)
 
 <Br>
 <hr>
