@@ -4,31 +4,22 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a software engineering student.
-- 🔭: I’m currently working on many small web automation projects.
-- 🌱: I’m currently learning mobile applications development. 🎮📱
-  
-<hr>
-<Br>
-<h1 align="center">Get in Touch! 📬</h1>
-<Br>
-<p align="center">
-<a href="https://www.linkedin.com/in/daniel-brettschneider-5831a0187/" target="blank"><img align="center" src="https://img.shields.io/badge/Daniel Brettschneider-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:daniel.1481997@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/daniel.1481997@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/DanielBretts" target="blank"><img align="center" src="https://img.shields.io/badge/DanielBretts-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+- 🏫: I'm a software engineering student 👨🏼‍🎓
+- 🔭: I’m currently working on many small web automation projects 💻
+- 🌱: I’m currently learning mobile applications development 🎮📱
+
   
 <Br>
 <hr>
 <Br>
-<h1 align="center">Skills I have! 🤸‍♂</h1>
+<h1>Skills I have! 🤸‍♂</h1>
 <Br>
 
 
-![](https://img.shields.io/badge/OOP-brightgreen?style=for-the-badge)  ![](https://img.shields.io/badge/Web%20Automation?style=for-the-badge)
+![](https://img.shields.io/badge/OOP-brightgreen?style=for-the-badge)  ![](https://img.shields.io/badge/Web%20Automation-blue?style=for-the-badge)  ![](https://img.shields.io/badge/React-lightblue?style=for-the-badge)  ![](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
 
   
-  
-<Br>
-<hr>
+
 <Br>
 <h1>Tools I use! 🛠️</h1>
 <Br>
@@ -45,6 +36,12 @@
   
 [![My github stats](https://github-readme-stats.vercel.app/api?username=DanielBretts&show_icons=true&theme=merko)](https://github.com/DanielBretts/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBretts&layout=compact&theme=merko)](https://github.com/DanielBretts/github-readme-stats)
 
+<Br>
+<h1>Get in Touch! 📬</h1>
+<Br>
+<p align="center">
+<a href="https://www.linkedin.com/in/daniel-brettschneider-5831a0187/" target="blank"><img align="center" src="https://img.shields.io/badge/Daniel Brettschneider-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:daniel.1481997@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/daniel.1481997@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/DanielBretts" target="blank"><img align="center" src="https://img.shields.io/badge/DanielBretts-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ------
   
