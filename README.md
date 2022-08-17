@@ -34,6 +34,7 @@
 <Br>
  
 |![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)|
+|---|---|---|---|---|
 
 <Br>
 <hr>
