@@ -23,8 +23,8 @@
 <Br>
 
  <p align="center">
-![](https://img.shields.io/badge/OOP-brightgreen?style=for-the-badge)  ![](https://img.shields.io/badge/Web%20Automation?style=for-the-badge)
-  </p>
+  ![](https://img.shields.io/badge/OOP-brightgreen?style=for-the-badge)  ![](https://img.shields.io/badge/Web%20Automation?style=for-the-badge)
+ </p>
   
   
 <Br>
@@ -33,9 +33,9 @@
 <h1>Tools I use! 🛠️</h1>
 <Br>
  
-  <p align="center">
-![](https://img.shields.io/badge/JavaScript-FF6F00?style=for-the-badge&logoColor=yellow)  ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)  ![](https://img.shields.io/badge/Java-FF6F00?style=for-the-badge&logo=Java&logoColor=orange)
-  </p>
+<p align="center">
+  ![](https://img.shields.io/badge/JavaScript-FF6F00?style=for-the-badge&logoColor=yellow)  ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-     badge&logo=python&logoColor=darkgreen)  ![](https://img.shields.io/badge/Java-FF6F00?style=for-the-badge&logo=Java&logoColor=orange)
+</p>
   
   
 <Br>
