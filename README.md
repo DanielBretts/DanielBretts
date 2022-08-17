@@ -64,26 +64,9 @@
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=Aryagm&show_icons=true&theme=merko)](https://github.com/Aryagm/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryagm&layout=compact&theme=merko)](https://github.com/Aryagm/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=DanielBretts&show_icons=true&theme=merko)](https://github.com/DanielBretts/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBretts&layout=compact&theme=merko)](https://github.com/DanielBretts/github-readme-stats)
 
- 
-<Br>
-<hr>
-<Br>
-<h1>A Little Joke at the End! 🤣</h1>
-<Br>
-  
-<img src="https://ih1.redbubble.net/image.471887531.0381/raf,750x1000,075,t,000000:44f0b734a5.u4.jpg"/>
-  
-  
-  
-<Br>
-<hr>
-<Br>
-<h1>Thank You! 🤵 </h1>
-<Br>
 
 ------
   
 Credit: [Aryagm](https://github.com/Aryagm)
-Last Edited on: 22/06/2021
