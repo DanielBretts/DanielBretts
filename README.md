@@ -33,11 +33,10 @@
 <Br>
 <h1>GitHub Stats! 📊</h1>
 
-<Br>
-  
-[![My github stats](https://github-readme-stats.vercel.app/api?username=DanielBretts&show_icons=true&theme=merko)](https://github.com/DanielBretts/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBretts&layout=compact&theme=merko)](https://github.com/DanielBretts/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBretts&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=DanielBretts&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/>
+[![](https://visitcount.itsvg.in/api?id=DanielBretts&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<Br>
 <h1>Get in Touch! 📬</h1>
 <Br>
 <p align="center">
