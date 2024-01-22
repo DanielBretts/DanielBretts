@@ -32,6 +32,7 @@
 <hr>
 <Br>
 <h1>GitHub Stats! 📊</h1>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBretts&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 <Br>
   
 [![My github stats](https://github-readme-stats.vercel.app/api?username=DanielBretts&show_icons=true&theme=merko)](https://github.com/DanielBretts/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBretts&layout=compact&theme=merko)](https://github.com/DanielBretts/github-readme-stats)
